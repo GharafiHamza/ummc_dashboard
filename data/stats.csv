@@ -1,0 +1,228 @@
+consultations_nb,consultations_generales_nb,tele_expertises_nb,tele_expertises_specs,transfert_urgences_nb,transfert_urgences_motifs,transfert_nb,transfert_motifs,male_nb,female_nb,age_0_6,age_7_14,age_15_24,age_25_64,age_65,hta,diabete,kc_sein,kc_col,covid19_p,covid19_n,mdo_motifs,mdo_nb,vax_nb,soins_nb,path_fq,taux_saisie,Unite,Date
+3,2,1,Néphro,1,appendicite,1,Bronchite,2,1,1,0,1,1,0,2,2,0,0,0,0,,0,0,0,"Bronchite
+appendicite
+",67%,Guercif,2024-01-22
+30,24,2,"Cardio, ORL",0,,2,"hypoacousie , BAV",6,24,4,1,1,18,6,17,6,0,0,0,0,,0,0,1,"HTA
+lombosciatalgies 
+BAV
+Diabète
+Dyspnée
+",90%,Midelt-1,2024-01-22
+0,0,0,,0,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,,#DIV/0!,Jerada,2024-01-22
+0,0,0,,0,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,,#DIV/0!,Amellagou,2024-01-22
+14,14,0,,0,,0,,3,11,0,1,2,8,3,8,1,0,0,0,0,,0,0,1,"Grippe
+HTA
+Arthrite
+Dermatophytose
+Diabete/HTA 
+",100%,Guercif,2024-01-23
+17,16,1,Gyneco,0,,0,,4,13,1,3,3,10,1,10,1,0,0,0,0,,0,0,0,"angine
+colopathie fonctionnelle
+HTA 
+RGO
+Xérose cutanée
+",100%,Midelt-1,2024-01-23
+26,23,3,"Gyneco, Cardio, ORL",0,,2,"exacerbation BCPO , Angor instable , HTA",10,16,2,1,1,13,9,25,0,0,0,0,0,,0,0,0,"sciatalgie +HTA
+<
+Angines
+Angor instable , HTA
+Angor mixte, gonalgies
+",96%,Jerada,2024-01-23
+23,23,0,,0,,0,,10,13,3,3,0,15,2,1,1,0,0,0,1,,0,0,0,"OXYUROSE
+RGO
+RAS
+ASTHME
+CEPHALESS
+",100%,Melaab,2024-01-23
+0,0,0,,0,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,,#DIV/0!,Amellagou,2024-01-23
+21,15,6,"Dermato, Pneumo, Cardio, Ophtalmo",0,,1,PRESBYACOUSIE+HBP,12,9,1,2,2,11,5,14,0,0,0,0,0,,0,0,0,"BRONCHITE
+HTA
+RAS
+ACNE CHELOIDIENNE 
+ANEMIE 
+",100%,Taourirt,2024-01-23
+4,4,0,,0,,0,,3,1,1,1,0,0,2,0,0,0,0,0,0,,0,0,0,"Eczema
+Soins
+conjonctivite
+conjonvtivite
+",100%,Guercif,2024-01-24
+18,15,2,"Gyneco, ORL",0,,1,hypoacousie,5,13,3,1,0,10,2,11,2,0,0,0,0,,0,0,1,"lombalgies communes
+rhinopharyngite
+HTA et Diabète
+cicatrice 
+colopathie fonctionnelle
+",100%,Midelt-1,2024-01-24
+33,26,7,"ORL, Gyneco, Dermato, Cardio",0,,4,"dysménorrhée+angine a repetition, HPB PSA elevée , épigastralgie, Hématurie",12,21,3,6,4,14,6,22,0,0,0,0,0,,0,0,0,"suivi HTA
+dysménorrhée+angine a repetition
+oxyurose
+                           angine
+Angor d'effort 
+",100%,Jerada,2024-01-24
+22,19,1,Gyneco,0,,0,,11,11,2,0,1,9,10,2,0,0,0,0,0,,0,0,0,"RAS
+RGO
+ANGINES
+ANXIETE
+ARTHRALGIES
+",86%,Melaab,2024-01-24
+2,1,0,,0,,0,,2,0,0,0,0,0,2,0,0,0,0,0,0,,0,0,0,"GONALGIE
+LOMBOSCIATALGIE
+",50%,Amellagou,2024-01-24
+14,8,6,"Ophtalmo, Cardio, ORL, Dermato",0,,0,,7,7,2,1,0,6,5,11,0,0,0,0,0,SUSPICION DE TUBERCULOSE,1,0,0,"PRESBYTIE/CONJONCTIVITE ALLERGIQUE/PTERYGION
+CATARACTE/CONJONCTIVITE ALLERGIQUE/PRESBYTIE/PTERYGION
+CONJONCTIVITE ALLERGIQUE/CATARACTE
+DIARRHEE
+EXACERBATION D'ASTHME
+",100%,Taourirt,2024-01-24
+10,10,0,,0,,0,,1,9,4,2,0,4,0,3,0,0,0,0,0,,0,0,1,"HTA
+oxyurose
+Bronchite
+Fievre
+Hypotension
+",100%,Guercif,2024-01-25
+13,10,3,"Gyneco, Dermato, Cardio",0,,1,aphtes chroniques,7,6,4,1,1,6,0,4,0,0,0,0,0,,0,0,0,"Céphalées
+HTA
+angine
+Asthénie 
+OPK
+",100%,Midelt-1,2024-01-25
+26,20,6,"Dermato, Pédiatrie, Endocrino, Néphro",1,SD urémique + IR ,2,"angine+sciatalgie, Sciatique",10,16,4,2,0,14,6,19,0,0,0,0,1,,0,0,0,"Angines
+Abcès dentaire
+Angine
+Arthrose genou
+Asthénie , palpitations
+",100%,Jerada,2024-01-25
+11,11,0,,0,,0,,4,7,4,3,1,3,0,0,0,0,0,0,0,,0,0,0,"ANGINES
+TOUX
+ARTHRALGIES
+CANDIDOSE VAGINALE
+RGHINOPHARYNGITE
+",100%,Melaab,2024-01-25
+0,0,0,,0,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,,#DIV/0!,Amellagou,2024-01-25
+24,19,5,"ORL, Cardio, Néphro, Endocrino, Pneumo",0,,2,"HBP+HERNIE, FRACTURE DE L'EPAULE",9,15,2,2,3,11,6,15,0,0,0,0,0,,0,0,0,"PRISE DE TA
+ANGINE
+ASTHME
+BRONCHITE AIGUE
+BRONCHITE/ANGINES
+",100%,Taourirt,2024-01-25
+19,16,1,Ophtalmo,0,,0,,7,12,2,1,2,13,1,6,0,0,0,0,0,,0,0,0,"Colopathie fonctionelle
+infection urinaire
+Autisme
+BAV
+Colique nephritique
+",100%,Guercif,2024-01-26
+28,23,3,"Gyneco, ORL",1,bradycardie,2,"lombosciatalgie, gonalgies",8,20,5,1,0,17,5,14,3,0,0,0,0,,0,0,2,"HTA
+Rhinopharyngite 
+colopathie fonctionnelle 
+gonalgies
+angine
+",100%,Midelt-1,2024-01-26
+32,27,3,"Gyneco, ORL, Cardio",0,,1, Suivi ,11,21,4,7,2,13,5,13,8,0,0,0,1,Conjonctivite bactérienne + DT2,1,0,1,"Sd de l'intestin irritable 
+Bronchite aigue 
+HTA
+ Suivi 
+ anemie avec intestin irritable 
+",97%,Midelt-2,2024-01-26
+33,27,6,"ORL, Dermato, Pneumo",0,,4,"constipation chronique , encoprésie, Traumatisme fémur, angine a rèpètition, HTA+Diabete+HBP",12,21,2,7,3,20,1,23,0,0,0,0,2,,0,0,1,"Gastrite
+ADP cervicales
+Aménorhée 
+Asthénie
+BAV 
+",100%,Jerada,2024-01-26
+11,11,0,,0,,0,,5,6,2,2,1,4,2,0,0,0,0,0,0,,0,0,0,"ANGINES
+RHINOPHARYNGITE
+ARTHRALGIES
+BOUCHIN DE CERUMEN
+EPIGASTRALGIE
+",100%,Melaab,2024-01-26
+0,0,0,,0,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,,#DIV/0!,Amellagou,2024-01-26
+18,13,5,"Cardio, ORL, Ophtalmo, Pneumo",1,IRA,1,CATARACTE,9,9,1,3,1,8,5,13,0,0,0,0,0,,0,0,1,"ANGINES ERYTHEMATEUSES 
+PRISE DE TA
+ANGINES  
+BRONCHITE AIGUE
+CALCUL RENALE
+",100%,Taourirt,2024-01-26
+12,12,0,,0,,0,,4,8,0,1,2,8,1,4,0,0,0,0,0,,0,0,0,"HTA
+Eczema
+Gastrite
+Infection urinaire
+Lipome
+",100%,Guercif,2024-01-29
+26,19,3,"Cardio, Endocrino, Pédiatrie",0,,5,"HTA, conjonctivite allergique, RGO, plaie de la main, bégaiement ",11,15,7,2,1,12,3,8,2,0,0,0,0,,0,0,3,"HTA
+rhinopharyngite
+rhinopharyngite 
+soin
+RGO
+",100%,Midelt-1,2024-01-29
+22,19,3,"Pédiatrie, Endocrino",1,DT2 + HTA ,1,Rage dentaire ,6,16,5,3,3,7,4,10,2,0,0,0,0,"DT2 + HTA 
+DT2 et gonalgies  ",2,0,0,"Sd de l'intestin irritable 
+angine 
+ Syndrome de l'intestin irritable 
+Cors au niveau des pieds
+DT2 + HTA 
+",100%,Midelt-2,2024-01-29
+38,30,8,"Cardio, Pneumo, Gyneco, Pédiatrie, ORL",0,,4,"HTA , angor d'effort, bartolynite, Trouble d'anxiété généralisé, Bronchite, dysphasie",15,23,4,3,7,18,6,29,0,0,0,0,0,,0,0,0,"Céphalée
+HTA , angor d'effort
+suivi grossese
+ SUIVI GROSSESE
+BAISSE ACUITE Visuelle
+",100%,Jerada,2024-01-29
+10,9,0,,0,,0,,6,4,1,2,0,4,3,0,0,0,0,0,0,,0,0,0,"RHINOPHARYNGITE
+TOUX
+ANGINES
+HTA
+LOMBALGIE
+",90%,Melaab,2024-01-29
+19,16,3,"Endocrino, Gyneco, Ophtalmo",0,,1,cardiopathie,5,14,3,0,0,11,4,11,1,0,0,0,0,,0,0,0,"Suivi DT2
+bav
+syndrome du colon irritable 
+BAV
+Bronchiolite virale
+",95%,Amellagou,2024-01-29
+15,13,2,"ORL, Pneumo",0,,1, GASTRITE à HP,8,7,0,0,0,7,8,13,0,0,0,0,0,,0,0,1,"PRISE DE TA
+ BRONCHITE ASHMATIFORME
+ GASTRITE à HP
+ALOPECIE/GASTRITE
+ARTHRALGIE
+",100%,Taourirt,2024-01-29
+10,10,0,,0,,0,,4,6,1,1,0,6,2,5,0,0,0,0,0,,0,0,0,"HTA
+fievre
+Aménorrhée
+Anémie
+Bronchite
+",100%,Guercif,2024-01-30
+18,15,3,"Dermato, Pédiatrie",0,,1,traumatisme oculaire,6,12,1,2,2,8,5,12,3,0,0,0,0,,0,0,0,"HTA
+retard de croissance
+Diabète+HTA
+Rhinopharyngite 
+acné 
+",100%,Midelt-1,2024-01-30
+7,6,1,Dermato,0,,2,"gonalgie , loupe du cuir chevelu ",4,3,1,0,0,4,2,5,0,0,0,0,0,,0,0,0," gastrite médicamenteuse 
+Asthénie
+Suivi DT2
+allergie 
+bronchiolite virale surinfectée 
+",100%,Midelt-2,2024-01-30
+23,17,6,"Gyneco, Pneumo, ORL, Dermato, Cardio",0,,2,"hernie inguinal+sciatique, BPCO",12,11,4,2,2,9,6,14,1,0,0,0,0,,0,0,0,"Asthenie
+Douleurs pelviennes 
+Asthénie
+BPCO
+Colique néphrétique
+",87%,Jerada,2024-01-30
+17,16,1,Cardio,0,,0,,7,10,5,1,3,6,2,0,0,0,0,0,0,,0,0,0,"SD GRIPPAL
+RAS
+RHUME
+ANGINES
+ASTHME
+",100%,Melaab,2024-01-30
+21,17,4,"Gyneco, Endocrino",0,,1,suivie varicocele grade III,6,15,0,2,0,13,6,0,0,0,0,0,0,,0,0,0,"colopathie fonctionnelle
+hernie discale
+Arthralgie
+Epilepsie 
+blépharo
+",100%,Amellagou,2024-01-30
+17,10,6,"Ophtalmo, ORL, Dermato, Pneumo, Pédiatrie",0,,0,,8,9,2,3,0,7,5,9,0,0,0,0,0,,0,0,0,"bronchite aigue
+Blépharite
+GASTRITE
+angines
+bronchite aigue/constipation
+",100%,Taourirt,2024-01-30
